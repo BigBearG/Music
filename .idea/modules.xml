@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Baidu.iml" filepath="$PROJECT_DIR$/Baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompletetextview/autocompletetextview.iml" filepath="$PROJECT_DIR$/autocompletetextview/autocompletetextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callfragment/callfragment.iml" filepath="$PROJECT_DIR$/callfragment/callfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database/database.iml" filepath="$PROJECT_DIR$/database/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragement/fragement.iml" filepath="$PROJECT_DIR$/fragement/fragement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragement2/fragement2.iml" filepath="$PROJECT_DIR$/fragement2/fragement2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuxing/shuxing.iml" filepath="$PROJECT_DIR$/shuxing/shuxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin/weixin.iml" filepath="$PROJECT_DIR$/weixin/weixin.iml" />
+    </modules>
+  </component>
+</project>
